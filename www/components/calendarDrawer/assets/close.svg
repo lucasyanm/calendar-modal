@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Layer_2" width="31" height="31" data-name="Layer 2" viewBox="0 0 31 31">
+    <defs>
+        <style>
+            .cls-1,.cls-2{fill:#4a4a4a}.cls-1{opacity:0}
+        </style>
+    </defs>
+    <g id="close">
+        <path id="Retângulo_2868" d="M0 0h31v31H0z" class="cls-1" data-name="Retângulo 2868" transform="rotate(180 15.5 15.5)"/>
+        <path id="Caminho_4684" d="M14.194 12.634l4.754-4.743a1.11 1.11 0 1 0-1.57-1.57l-4.743 4.754-4.744-4.754a1.11 1.11 0 1 0-1.57 1.57l4.754 4.743-4.754 4.743a1.11 1.11 0 1 0 1.57 1.57l4.743-4.754 4.743 4.754a1.11 1.11 0 1 0 1.57-1.57z" class="cls-2" data-name="Caminho 4684" transform="translate(2.63 2.63)"/>
+    </g>
+</svg>

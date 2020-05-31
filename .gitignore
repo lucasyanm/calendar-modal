@@ -1,0 +1,12 @@
+.idea
+hooks
+node_modules
+platforms
+plugins
+
+www/*
+!www/components
+
+config.xml
+package-lock.json
+package.json
