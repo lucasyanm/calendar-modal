@@ -1,4 +1,4 @@
-# Calendar Component
+# Calendar Modal
 This is a Calendar that's in a drawer/modal. It was developed using only vanilla JS/HTML/CSS.
 <img alt="Calendar Modal" src="./public/calendar.png"/>
 
