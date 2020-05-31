@@ -20,6 +20,9 @@ And something clickable, like a button, that will trigger the modal. Something l
 * You can select and receive a range of data to use for some filter or other things you want.
 * Works both on web and smartphone (It works only on Cordova. The code needs it to differentiate mouse events from touch events)
 
+## Special Thanks
+* Special thanks to https://github.com/niinpatel/calendarHTML-Javascript. The skeleton of the calendar is based on that code.
+
 ### Note
 * Don't forget to add the script and the css files to your HTML page
 * If the icons don't load verify if the path to the folder where the icons are is correct
